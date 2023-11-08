@@ -2,11 +2,13 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/PedroMagno11/PedroMagno11/main/Assets/HeyIAmPedroMagno.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
+<p>I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+ <a href="https://github.com/PedroMagno11">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromagno11&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+ </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromagno11&layout=compact&langs_count=16&theme=omni"/>
  </div>
  
  &nbsp;

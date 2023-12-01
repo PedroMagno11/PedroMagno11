@@ -4,12 +4,28 @@
 
 <p>I ❤️ solve great challenges using tech. <br><br> From backend development to frontend development , I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
- <a href="https://github.com/PedroMagno11">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromagno11&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
- </a>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromagno11&layout=compact&langs_count=16&theme=omni"/>
- </div>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00c5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Magno;I'm+23+years+old;I'm+from+Brazil;I+have+a+degree+in+Computer+Science;Welcome!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center"> 
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedromagno11&bg_color=121214&color=ff00c5&line=8257e5&point=04d361&area=true&hide_border=true)
+
+
+</div>
+
+
+<div align="center"> 
+  <a href="https://github.com/PedroMagno11">
+    <img width="54%" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromagno11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff00c5&icon_color=ff00c5&bg_color=121214&text_color=8257e5"/>
+  </a>  
+ 
+  <a href="https://github.com/PedroMagno11">
+    <img width="39%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromagno11&layout=compact&langs_count=8&theme=onedark&title_color=ff00c5&bg_color=121214&text_color=8257e5"/>
+  </a>
+</div>
  
  &nbsp;
  &nbsp;

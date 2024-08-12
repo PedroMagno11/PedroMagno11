@@ -44,6 +44,8 @@
 #### ⚙️ Frameworks / Libraries:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
+![JavaFX](https://img.shields.io/badge/JavaFX-FF1133?style=for-the-badge)&nbsp;
+
 #### ⚙️ Tools:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;

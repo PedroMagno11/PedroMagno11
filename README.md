@@ -1,34 +1,75 @@
-<h1 align="center">Hi 👋, eu sou o Pedro Magno</h1>
-<h3 align="left"><p>Cursando Ciência da Computação na Universidade Estácio de Sá, estou em busca de desafios que me permitam aplicar e aprimorar meus conhecimentos em desenvolvimento de software.</p> 
- <br/>
-<p>Possuo habilidades em constante aprimoramento no ecossistema Java e .NET. Além disso, tenho experiência prática com Docker e familiaridade com a plataforma de nuvem AWS, tendo conhecimentos sólidos em alguns serviços como EC2, S3, VPC, RDS, e DynamoDB.</p>
-</h3>
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/PedroMagno11/PedroMagno11/main/Assets/Hey%20.png" />
+&nbsp;&nbsp;
 
-- 👨‍💻 Acesse meu site para mais informações: [Pedro Magno](https://www.pedromagno.com.br)
-
-- 📫 Como entrar em contato comigo: **pedromagnopro@gmail.com**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pedro-magno-017a64253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-magno-017a64253" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dev_crazy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev_crazy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pedromagnopro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pedromagnopro" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e outras tecnologias:</h3>
-<p align="left"> 
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
- </a> 
- <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
- </a> 
+<p>Desenvolvedor backend com foco em linguagens de programação como Java e C.
+</p>&nbsp;
 
 
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00c5&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Pedro+Magno;Sou+formando+no+curso+de+Ciência+da+Computação)](https://git.io/typing-svg)
 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+
+<div align="center"> 
+
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedromagno11&bg_color=121214&color=ff00c5&line=8257e5&point=04d361&area=true&hide_border=true)
+
+
+</div>
+
+
+<div align="center"> 
+  <a href="https://github.com/PedroMagno11">
+    <img width="54%" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromagno11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff00c5&icon_color=ff00c5&bg_color=121214&text_color=8257e5"/>
+  </a>  
  
+  <a href="https://github.com/PedroMagno11">
+    <img width="39%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromagno11&layout=compact&langs_count=8&theme=onedark&title_color=ff00c5&bg_color=121214&text_color=8257e5"/>
+  </a>
+</div>
  
+ &nbsp;
+ &nbsp;
+
+
+
+## My Skills
+
+#### 👩‍💻 Languages 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### ⚙️ Frameworks / Libraries:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+#### ⚙️ Tools:
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+#### 📈 Databases:
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+#### 👩‍💻 IDE:
+![IntelliJ Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+<a href="https://replit.com/@PedroMagno2" target="_blank">
+<img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank">
+</a>&nbsp;
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href = "mailto:contato@pedromagno.com.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href=https://www.linkedin.com/in/pedro-magno-017a64253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+ <a href="https://www.pedromagno.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div>&nbsp;&nbsp;

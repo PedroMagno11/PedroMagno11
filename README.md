@@ -1,4 +1,3 @@
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/PedroMagno11/PedroMagno11/main/Assets/Hey%20.png" />
 &nbsp;&nbsp;
 
@@ -74,8 +73,3 @@
 <a href=https://www.linkedin.com/in/pedro-magno-017a64253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
  <a href="https://www.pedromagno.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

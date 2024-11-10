@@ -5,7 +5,7 @@
 </p>&nbsp;
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00c5&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Pedro+Magno;Sou+formando+no+curso+de+Ciência+da+Computação)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00c5&size=35&center=true&vCenter=true&width=1000&lines=Java;Spring+Boot;JavaFX;Linguagem+C;Python;JavaScript)](https://git.io/typing-svg)
 
 
 <div align="center"> 

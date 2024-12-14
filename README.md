@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:10px" src="Assets/aviao2.gif" />
 &nbsp;&nbsp;
 
-<h1>Bem-vindo oa meu GitHub!</h1>
+<h1>Bem-vindo ao meu GitHub!</h1>
 
 <p>Sou desenvolvedor com experiência em projetos de pesquisa e ampla atuação em diversas áreas do desenvolvimento de sistemas.</p>
 

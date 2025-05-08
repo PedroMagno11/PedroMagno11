@@ -13,7 +13,6 @@
 </p>&nbsp;
 
 
-<img align="center" style="margin-bottom:10px" src="Assets/navio2.gif" />
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff00c5&size=35&center=true&vCenter=true&width=1000&font=Pixelify+Sans&lines=Java;Spring+Boot;JavaFX;Linguagem+C;Python;Sistemas+Embarcados;Inteligência+Artificial;Redes+Neurais;Visão+Computacional)](https://git.io/typing-svg)
 
@@ -44,7 +43,6 @@
 
 ## Minhas Habilidades
 
-<img src="Assets/tank2.gif" align="right" alt="Computador iuriCode">&nbsp;
 
 #### 👩‍💻 Languages 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
@@ -93,4 +91,3 @@
  <a href="https://www.pedromagno.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
 
-<img align="center" src="Assets/navio.gif" />
